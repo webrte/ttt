@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
-    id="com.dooble.phonertc"
+    id="com.apizee.phonertc"
     version="2.0.0">
 
     <name>PhoneRTC</name>
@@ -178,7 +178,7 @@ In order to install PhoneRTC on iOS, please follow these steps:
     	
         <config-file target="res/xml/config.xml" parent="/*">
 			<feature name="PhoneRTCPlugin">
-				<param name="android-package" value="com.dooble.phonertc.PhoneRTCPlugin" />
+				<param name="android-package" value="com.apizee.phonertc.PhoneRTCPlugin" />
 			</feature>	
         </config-file>
 
